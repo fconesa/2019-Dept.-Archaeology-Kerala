@@ -9,4 +9,4 @@ All the materials in this folder are available for download for the students att
 ==IMPORTANT==
 Please download the practical materials from this Google Drive link: 
 
-https://drive.google.com/drive/folders/1eQOJrE2dmu3oY-W-XAK5Uawp-eDh53WG?hl=ca
+https://drive.google.com/drive/folders/1eQOJrE2dmu3oY-W-XAK5Uawp-eDh53WG?usp=sharing
