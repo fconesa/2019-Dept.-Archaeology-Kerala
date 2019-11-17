@@ -14,7 +14,7 @@ https://drive.google.com/drive/folders/1eQOJrE2dmu3oY-W-XAK5Uawp-eDh53WG?usp=sha
 1) Please download Agisoft software from here:
 https://www.agisoft.com/downloads/installer/
 
-2)Once installed, please use the following Educational License (valid till 21th November 2019): 
+2) Once installed, please use the following Educational License (valid till 21th November 2019): 
 TTC5Y-VC6HU-TDYUL-2D2EU-UM9LU
 
 3) Please also download the new practical materials from the above Drive link. 
