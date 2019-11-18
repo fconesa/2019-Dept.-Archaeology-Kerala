@@ -17,8 +17,8 @@ TTC5Y-VC6HU-TDYUL-2D2EU-UM9LU
 === CREDITS ===
 Materials created by: 
 Francesc C. Conesa -> fcic2@cam.ac.uk
-Arnau Garcia -> 
-Natalia ÉGüez ->
+Arnau Garcia -> ag2023@cam.ac.uk 
+Natalia ÉGüez -> neguezgo@ull.edu.es
 
 Thank you all for your participation!
 We also wish to thanks Dr Rajesv S.V. and Dr Abhayan G.S. for the organisation of this workshop! 
